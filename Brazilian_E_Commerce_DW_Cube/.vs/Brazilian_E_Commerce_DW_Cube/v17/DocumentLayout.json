@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Seller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Dim Seller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Fact Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Fact Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Brazilian_E_ Commerce_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Brazilian_E_ Commerce_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Cube Brazilian E Commerce.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0BD78699-6661-BAC5-69C5-F0151D3DCEC4}|Brazilian_E_Commerce_DW_Cube.dwproj|solutionrelative:Cube Brazilian E Commerce.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brazilian_E_ Commerce_DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Brazilian_E_ Commerce_DW.dsv",
+              "RelativeDocumentMoniker": "Brazilian_E_ Commerce_DW.dsv",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Brazilian_E_ Commerce_DW.dsv [Design]",
+              "RelativeToolTip": "Brazilian_E_ Commerce_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:51:45.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fact Order.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Fact Order.dim",
+              "RelativeDocumentMoniker": "Fact Order.dim",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Fact Order.dim [Design]",
+              "RelativeToolTip": "Fact Order.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:40:49.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:40:47.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:40:45.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Seller.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Seller.dim",
+              "RelativeDocumentMoniker": "Dim Seller.dim",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Seller.dim [Design]",
+              "RelativeToolTip": "Dim Seller.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:40:43.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T07:40:39.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cube Brazilian E Commerce.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Cube Brazilian E Commerce.cube",
+              "RelativeDocumentMoniker": "Cube Brazilian E Commerce.cube",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_DW_Cube\\Cube Brazilian E Commerce.cube [Design]",
+              "RelativeToolTip": "Cube Brazilian E Commerce.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T13:41:10.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

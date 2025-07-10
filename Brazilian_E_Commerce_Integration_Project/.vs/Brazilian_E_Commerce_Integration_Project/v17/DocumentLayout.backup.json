@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDC7DF-7512-65B9-5879-021BBD40394B}|Brazilian_E_Commerce_Integration_Project.dtproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\UpdateCompletionTimes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{08CDC7DF-7512-65B9-5879-021BBD40394B}|Brazilian_E_Commerce_Integration_Project.dtproj|solutionrelative:UpdateCompletionTimes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDC7DF-7512-65B9-5879-021BBD40394B}|Brazilian_E_Commerce_Integration_Project.dtproj|C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\Brazilian_E_Commerce_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{08CDC7DF-7512-65B9-5879-021BBD40394B}|Brazilian_E_Commerce_Integration_Project.dtproj|solutionrelative:Brazilian_E_Commerce_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brazilian_E_Commerce_Load_DW.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\Brazilian_E_Commerce_Load_DW.dtsx",
+              "RelativeDocumentMoniker": "Brazilian_E_Commerce_Load_DW.dtsx",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\Brazilian_E_Commerce_Load_DW.dtsx [Design]*",
+              "RelativeToolTip": "Brazilian_E_Commerce_Load_DW.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-01T11:16:34.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCompletionTimes.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\UpdateCompletionTimes.dtsx",
+              "RelativeDocumentMoniker": "UpdateCompletionTimes.dtsx",
+              "ToolTip": "C:\\Users\\drlda\\OneDrive\\Documents\\DWBI Assignment\\Brazilian_E_Commerce_Integration_Project\\UpdateCompletionTimes.dtsx [Design]",
+              "RelativeToolTip": "UpdateCompletionTimes.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-29T09:15:31.882Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
